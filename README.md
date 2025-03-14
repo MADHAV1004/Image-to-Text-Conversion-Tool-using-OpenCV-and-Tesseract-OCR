@@ -1,0 +1,1 @@
+# Image-to-Text-Conversion-Tool-using-OpenCV-and-Tesseract-OCR
