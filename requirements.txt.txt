@@ -1,9 +1,0 @@
-1. opencv-python: Library for image processing.
-
-2. pytesseract: Python wrapper for Tesseract OCR.
-
-3. streamlit: Framework for building web apps.
-
-4. numpy: Library for numerical operations.
-
-5. Pillow: Library for handling images.
